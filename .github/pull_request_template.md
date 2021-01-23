@@ -1,0 +1,2 @@
+Issue reference:
+fixes #{{issueNumber}}
